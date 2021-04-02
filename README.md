@@ -1,3 +1,7 @@
+# IBM Websphere Liberty built on Maven and ran on docker.
+
+building liberty war with maven on docker and deploying on Liberty Docker.
+
 # Java Hello World Sample
 
 This project contains a simple servlet application.
